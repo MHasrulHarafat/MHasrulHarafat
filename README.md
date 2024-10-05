@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">M Hasrul Harafat</h1>
 <h3 align="center"> You Thinks</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MHasrulHarafat&label=Profile%20views&color=129e00&style=plastic" alt="MHasrulHarafat" /> </p>
-<img align="right" alt="Coding" width="250" height="400" src="alfat.jpg">
+<img align="right" alt="Coding" width="250" height="400" src="alfat.jpeg">
 
 <br>
 - 📫 How to reach me **hasrulharafat08@gmail.com**
